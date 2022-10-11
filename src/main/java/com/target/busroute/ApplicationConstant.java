@@ -7,6 +7,7 @@ package com.target.busroute;
 public class ApplicationConstant {
 	
 	private ApplicationConstant() {
+		
 
 	}
 	public static final String ERR_NOTE_FOUND = " was not found";
